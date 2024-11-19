@@ -11,6 +11,7 @@
 
     <modules>
         <module>trayectos</module>
+		<module>ejemplo</module>
     </modules>
 
 
